@@ -1,0 +1,6 @@
+{
+  "name": "Inventaire Institut",
+  "description": "Application d'inventaire technique, de contrôle de la conformité d'équipements par QR code avec signature et journal d'anomalies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
